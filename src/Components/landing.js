@@ -1,3 +1,12 @@
 import React from 'react'
 
-export default Landing = ()=> {<div> welcome </div>}
+ function Landing() {
+return(
+<div> 
+    welcome 
+
+</div>
+)
+
+}
+export default Landing
