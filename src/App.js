@@ -6,8 +6,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Landing/>
-     mazao jjjjjj
+     mazao product uuuuppppsdddatttessdddd
+     
     </div>
   );
 }
