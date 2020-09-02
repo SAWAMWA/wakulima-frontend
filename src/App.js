@@ -1,4 +1,5 @@
 import React from 'react';
+import Landing from './Components/landing'
 
 import './App.css';
 
